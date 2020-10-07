@@ -190,18 +190,6 @@
         "group": "virtualmachine"
     }
   ]
-"template_output_params": [ 	
-    {
-      "name": "vm_ip",
-      "label": "vm_ip",
-      "description": "",
-      "group_name": "",
-      "secured": false,
-      "hidden": false,
-      "shortname": "",
-      "type": "string"
-    }
-  ]
-	
-	
+"template_output_params": [
+]		
 }

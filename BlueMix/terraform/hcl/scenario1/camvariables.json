@@ -193,7 +193,7 @@
 "template_output_params": [ 	
     {
       "name": "vm_ip",
-      "label": "IP",
+      "label": "vm_ip",
       "description": "",
       "group_name": "",
       "secured": false,

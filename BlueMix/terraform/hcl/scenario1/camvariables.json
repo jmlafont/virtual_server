@@ -191,5 +191,9 @@
     }
   ],
 "template_output_params": [
+	{
+        "name": "vm_ip",
+	"label": "vm_ip"
+	}
 ]		
 }

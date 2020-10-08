@@ -195,7 +195,7 @@
         "name": "vm_ip",
 	"label": "vm_ip",
 	"type": "string",
-        "group_name": "content_template_output"
+        "group": "content_template_output"
 	}
 ]		
 }

@@ -72,7 +72,7 @@
           {
               "value" : "dal09",
               "label": "Dallas 09, USA",
-              "default" : "true"
+        
           },
           {
               "value" : "dal10",
@@ -92,7 +92,8 @@
           },
           {
               "value" : "lon02",
-              "label": "London, England"
+              "label": "London, England",
+	      "default" : "true"
           },
           {
               "value" : "mel01",
